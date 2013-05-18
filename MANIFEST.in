@@ -1,1 +1,3 @@
 include README.rst CHANGES LICENSE
+recursive-include rq_monitor/static *
+recursive-include rq_monitor/templates *
