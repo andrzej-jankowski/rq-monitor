@@ -24,7 +24,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'rq==0.3.7',
-        'tornado==3.0.1',
+        'tornado==6.3.3',
     ],
     entry_points={
         'console_scripts': [
